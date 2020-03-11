@@ -7,7 +7,7 @@
 - Python == 3.6.7
 - PyTorch == 0.4.0
 - Torchvision == 0.2.1
-- CUDA 9.0
+- CUDA == 9.0
 - scipy == 1.2.1
 - pillow == 6.1.0
 
