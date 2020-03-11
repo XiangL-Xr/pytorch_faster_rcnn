@@ -14,7 +14,7 @@
 ## 配置与安装
 
 ### Data Preparation
-* **PASCAL_VOC 07+12**: First of all, download the dataset in [pascal_voc](https://pjreddie.com/projects/pascal-voc-dataset-mirror/)
+* **PASCAL_VOC 07+12**: First of all, download the dataset in [pascal_voc](https://pjreddie.com/projects/pascal-voc-dataset-mirror/).
 And follow the instructions in [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn#beyond-the-demo-installation-for-training-and-testing-models) to prepare VOC datasets.
 
 ### Compilation
