@@ -1,0 +1,10 @@
+cython
+cffi
+opencv-python
+scipy==1.2.1
+pillow==6.1.0
+msgpack
+easydict
+matplotlib
+pyyaml
+tensorboardX
